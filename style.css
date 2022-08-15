@@ -1,0 +1,116 @@
+body{
+    
+    background: linear-gradient(black, gray);
+}
+h1{
+    color:aliceblue;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px gray;
+    text-align: center;
+}
+h2{
+    color:darkcyan;
+    font-size: 30px;
+    text-align: center;
+
+}
+h3{
+    color:coral;
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    color:blue;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border: 5px dashed white;
+    
+}
+
+img:hover{
+    box-shadow: 10px 10px 10px gray;
+    opacity: 50%;
+}
+
+a{
+    color: white;
+    text-decoration: none;  
+}
+
+
+nav{
+    position: absolute;
+    background-color: black;
+    height: 10%;
+    margin: 10px;
+    margin-left: 50vw;
+}
+nav a{
+    height: 50px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+a:hover{
+    background-color:#283434cf; 
+    box-shadow: 0 0 20px white;
+    border-radius: 30%;
+}
+a:visited{
+    color: pink;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+#logo{
+    margin-left: 20px;
+    width: 100px;
+    height: auto;
+    
+}
+
+#form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-top: 10vh;
+    margin-left: 40%;
+    color:aquamarine;
+    
+}
+
+#submit{
+    margin-left: 12vw;
+    font-size: larger;
+    background-color: aquamarine;
+    padding: 0.5rem 0.5rem;
+    border-radius: 10%;
+    box-shadow: 2px 2px 2px lightcyan;
+}
+
+input{
+    font-size: 1.5rem;
+    padding: 0.5rem 0.5rem;
+} 
+
+textarea{
+    margin-left: 11%;
+}
+.radio{
+    margin-left: 12%;
+}
+
+        
+  
+        

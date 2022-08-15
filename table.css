@@ -1,0 +1,39 @@
+body{
+    background-color: cyan;
+    font-size: 30px;
+}
+
+table, td, th{
+    border: 2px solid black;
+    width: 50vw;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+     
+}
+table{
+    height: 50vh;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 2px gray;
+}
+
+caption{
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px white;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav a:hover{
+    color:darkmagenta;
+    text-shadow: 2px 2px 2px white;
+}
